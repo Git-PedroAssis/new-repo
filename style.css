@@ -1,0 +1,7 @@
+.first_title {
+  font-size: 100px;
+  font-weight: bold;
+  color: rgb(125, 40, 190);
+  display: flex;
+  justify-content: center;
+}
